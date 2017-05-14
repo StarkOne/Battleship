@@ -1,14 +1,14 @@
 body{
 	background: black;
 }
-#board{
+div#board {
 	position: relative;
 	width: 1024px;
 	height: 863px;
 	margin: auto;
 	background: url(img/board.jpg) no-repeat;
 }
-#messageArea{
+div#messageArea {
 	position: absolute;
 	top: 0;
 	left: 0;
