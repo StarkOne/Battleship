@@ -5,7 +5,7 @@ div#board {
 	position: relative;
 	width: 1024px;
 	height: 863px;
-	margin: auto;
+	margin: auto; 
 	background: url(img/board.jpg) no-repeat;
 }
 div#messageArea {
